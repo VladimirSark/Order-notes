@@ -4,7 +4,6 @@ Plugin Name: Order notes
 Description: Add order notes column to orders list
 Version: 1.0.0
 Author: Vladimir
-Author URI: slapiosnosys.lt
 */
 
 // WooCommerce - Add order notes column to orders list
